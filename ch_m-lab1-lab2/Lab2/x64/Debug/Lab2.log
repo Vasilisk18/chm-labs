@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+  Result.cpp
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.h(462,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(57,1): warning C4715: Lab2::MyForm::ai: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(69,1): warning C4715: Lab2::MyForm::ai: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(81,1): warning C4715: Lab2::MyForm::di: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(93,1): warning C4715: Lab2::MyForm::fii: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(105,1): warning C4715: Lab2::MyForm::di: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\MyForm.cpp(117,1): warning C4715: Lab2::MyForm::fii: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab2.vcxproj -> C:\Users\User\source\repos\ch_m-lab1-lab2\x64\Debug\Lab2.exe

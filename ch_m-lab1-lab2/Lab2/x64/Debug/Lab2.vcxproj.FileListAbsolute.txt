@@ -1,0 +1,8 @@
+C:\Users\pups\source\repos\Lab2\Lab2\x64\Debug\Lab2.vcxproj.AssemblyReference.cache
+C:\Users\pups\source\repos\Lab2\Lab2\x64\Debug\Lab2.MyForm.resources
+C:\Users\pups\source\repos\Lab2\Lab2\x64\Debug\Lab2.vcxproj.GenerateResource.cache
+C:\Users\pups\source\repos\Lab2\Lab2\x64\Debug\Lab2.Result.resources
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\x64\Debug\Lab2.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\x64\Debug\Lab2.MyForm.resources
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\x64\Debug\Lab2.Result.resources
+C:\Users\User\source\repos\ch_m-lab1-lab2\Lab2\x64\Debug\Lab2.vcxproj.GenerateResource.cache
