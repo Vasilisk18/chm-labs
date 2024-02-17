@@ -1,0 +1,6 @@
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.AssemblyReference.cache
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.MyForm.resources
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\ch_m-lab1-lab1\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\ch_m-lab1-lab1\WinFormsTest\x64\Debug\WinFormsTest.MyForm.resources
+C:\Users\User\source\repos\ch_m-lab1-lab1\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.GenerateResource.cache
